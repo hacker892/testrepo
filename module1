@@ -1,0 +1,5 @@
+print('hello')
+
+def func():
+  gg = 10
+  return gg
